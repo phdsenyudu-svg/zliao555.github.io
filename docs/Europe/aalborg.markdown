@@ -51,7 +51,7 @@ Frede拥有自己的团队，其下包括 Huai Wang， Xiongfei Wang， Francesc
 
 [Josep Guerrero](https://vbn.aau.dk/en/persons/124612)
 
-IEEE FELLOW, Full professor。是一位拥有较深学术造诣，且擅长音乐的IEEE FELLOW。
+已来到中国，IEEE FELLOW, Full professor。是一位拥有较深学术造诣，且擅长音乐的IEEE FELLOW。
 截至2020年8月份，Josep在Google Scholar中所记载的总被引次数累计超过5.4w次，其中h指数103，i10指数582。
 Josep主要的研究方向与micro grid有关，去年获得了非常大的项目。早些年发表的关于droop control的相关文章拥有显著的影响力。组里中国学生和伊朗的学生较多。据说Josep组的offer比较好申请，每年都有大量的新生加入团队。学生主要由组内的其他老师共同指导，但本人仍然在带学生。Josep会说中文，并且使用微信，有一头飘逸且灵动的长发。毕业的学生中，有人对其大加赞赏的，也有人对其评价较为一般。同时招收全奖资助（较少），CSC和自费的学生。
 Josep拥有自己的团队，其下包括Juan C. Vasquez，Saeed Golestan， Yajuan Guan 等等。
@@ -90,7 +90,7 @@ Full professor。 主要研究都集中在硬件方面，涵盖谐振变换器�
 [Huai Wang](https://vbn.aau.dk/en/persons/126832)
 
 Full professor。 是近些年在能源系冉冉升起的学术界新星之一。Huai本人学术经历十分丰富，毕业于香港城市大学，导师是著名学者 Henry Chung，毕业后先后在MIT等著名学府任职。
-在奥尔堡能源系，通过对电容的可靠性进行建模逐渐开创了一个独特且重要的领域，是电力电子可靠性方面的专家。其对待学生非常nice，同时拥有非常强的思维和总结能力。近年来涉及的方面已不仅仅局限于电容可靠性，在变换器的状态检测，变换器拓扑，人工智能在电力电子中的应用，以及磁性元件领域均有很不错的建树。Huai同时担任了业内多份顶级杂志的AE，是2016年PELS Bass奖的获得者。
+在奥尔堡能源系，通过对电容的可靠性进行建模逐渐开创了一个独特且重要的领域，是电力电子可靠性方面的专家。其对待学生非常nice，同时拥有非常强的思维和总结能力。近年来涉及的方面已不仅仅局限于电容可靠性，在变换器的状态检测，变换器拓扑，人工智能在电力电子中的应用，以及磁性元件领域均有很不错的建树。Huai同时担任了业内多份顶级杂志的AE，是2016年PELS Bass奖的获得者。人超好
 
 ---
 
@@ -141,7 +141,7 @@ Assoc. professor。 研究方向是光伏逆变器，曾经属于Remus大组，�
 
 [Dao Zhou](https://vbn.aau.dk/en/persons/126549)
 
-Assis. Professor。研究方向是风电变流器的可靠性分析，主要和Frede一起带学生，对学生非常nice。经常自己做实验，搭台子，记录数据等。
+Assis. Professor。研究方向是风电变流器的可靠性分析，主要和Frede一起带学生，对学生非常nice。经常自己做实验，搭台子，记录数据等。脾气非常好
 
 ---
 
@@ -156,7 +156,7 @@ Assis. Professor。 研究方向是电容的可靠性分析以及有源电容变
 [Amir Sajjad Bahman](https://vbn.aau.dk/en/persons/128003)
 
 Assis. Professor
-研究方向为器件可靠性以及基于有限元的热仿真，和Francesco一起带学生，组内学生主要来自伊朗。
+研究方向为器件可靠性以及基于有限元的热仿真，和Francesco一起带学生，组内学生主要来自伊朗。千万不要选他或者和他一起工作，避雷！！！
 
 ---
 
@@ -177,7 +177,7 @@ Assis. Professor
 [Yajuan Guan](https://vbn.aau.dk/en/persons/130856)
 
 Assis. Professor。
-研究方向为微电网的控制，物联网在微电网的应用等，和Josep老师一起带学生，对学生非常nice，组内学生以中国和伊朗学生为主。
+研究方向为微电网的控制，物联网在微电网的应用等，和Josep老师一起带学生，对学生非常nice，组内学生以中国和伊朗学生为主。人超级好，推荐！
 
 ---
 
